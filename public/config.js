@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Swap,Markets",
-  "VITE_CUSTOM_MENUS": "Pangea Main, https://rex-ai-crypto-hunter-copy-1cff3927.base44.app/Home",
+  "VITE_CUSTOM_MENUS": "Pangeon App, https://rex-ai-crypto-hunter-copy-1cff3927.base44.app/Home",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
