@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "https://x.com/PangeonPrime",
-  "VITE_SEO_SITE_NAME": "",
+  "VITE_SEO_SITE_NAME": "PangeonPrime",
   "VITE_SEO_SITE_DESCRIPTION": "",
   "VITE_SEO_SITE_URL": "https://dex.orderly.network/sygnai-5086/",
   "VITE_SEO_SITE_LANGUAGE": "en",
